@@ -1,1 +1,1 @@
-# gsa.io
+# gsa
